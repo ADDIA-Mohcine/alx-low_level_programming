@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-	/**
-	 * main - prints the size of various types
-	 * Return: 0 if exited properly, non-zero otherwise
-	 * %lu: is used to print an unsigned long integer
-	 * %d: is used to print a signed decimal integer.
-	 */
+/**
+ * main - prints the size of various types
+ * Return: 0 if exited properly, non-zero otherwise
+ * %lu: is used to print an unsigned long integer
+ * %d: is used to print a signed decimal integer.
+ */
 
 int main(void)
 {
