@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 	/**
-	 * main - Entry point of the program
-	 *
-	 * Return: Always 0 (Success)
+	 * main - prints the size of various types
+	 * Return: 0 if exited properly, non-zero otherwise
+	 * %lu: is used to print an unsigned long integer
+	 * %d: is used to print a signed decimal integer.
 	 */
 
 int main(void)
